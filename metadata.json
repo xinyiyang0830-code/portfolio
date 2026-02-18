@@ -1,0 +1,8 @@
+{
+  "name": "Creative Design Portfolio",
+  "description": "A high-end, professional portfolio website for a multidisciplinary designer featuring a full-screen navigation system, project filtering, and an AI-powered design assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
